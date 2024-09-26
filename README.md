@@ -30,3 +30,11 @@ Ambos os códigos estão presentes neste repositório.
 - 1 mangueira utilizada na bomba d'água.
 
 São os mesmos componentes presentes no vídeo.
+
+## Dependências
+
+O código para o projeto físico depende de uma biblioteca chamada `LiquidCrystal_I2C`. <br />
+Para efetuar o download, clique [aqui](https://drive.google.com/file/d/1bSa5tyCN3MOfJj4zkT1RD-bnLCxr6tFv/view).
+
+A instalação segue o mesmo princípio de um vídeo que ensina a como usá-la e também o link de download é proveniente deste mesmo vídeo. <br />
+Clique [aqui](https://www.youtube.com/watch?v=5OSPk5oHhVM&ab_channel=BrincandocomIdeias) para assisti-lo.
