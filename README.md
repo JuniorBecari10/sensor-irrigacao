@@ -14,7 +14,7 @@ O projeto segue esse diagrama:
 ![diagrama (1)](https://github.com/user-attachments/assets/0463aefc-6eb8-4e24-a52c-05cde3f00ff9)
 _Imagem retirada do vídeo mencionado acima e ampliada por IA._
 
-Há também uma versão digital do projeto, que está disponível no [Tinkercad](https://www.tinkercad.com/things/anHxaQcpELA-sensor-de-irrigacao-com-arduino). <br />
+Há também uma versão digital do projeto, que está disponível no [Tinkercad](https://www.tinkercad.com/things/anHxaQcpELA-sensor-de-irrigacao-com-arduino?sharecode=bJ9AgxZBshagl_tVICUKlEz-WTN8zEfuQCzmTHjHydY). <br />
 Para que funcione na plataforma, ele foi levemente modificado, mas a lógica é a mesma, e a sua montagem pode ser vista pelo link acima.
 
 Ambos os códigos estão presentes neste repositório.
